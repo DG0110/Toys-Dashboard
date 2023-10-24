@@ -13,4 +13,6 @@ There is 1 Fact table with Sales data and Three look up tables namely storeName,
 
 A calender Table is created using the DAX.
 
+
+
 <img width="576" alt="Screenshot 2023-10-24 234833" src="https://github.com/DG0110/Toys-Dashboard/assets/112652526/07c48485-49a2-4251-b47d-79475a40862a">
